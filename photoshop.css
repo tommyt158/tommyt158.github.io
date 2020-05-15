@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: #41B6E6;
+    text-align: center;
+}
+
+img {
+    max-width: 60%;
+    max-height: 60%;
+    margin-top: 200px;
+}
+
+.home {
+    font-size: 2.5em;
+    color: turquoise;
+    margin-top: -50px;
+    text-align: right;
+    margin-right: 30px;
+}
+
+.footer {
+    background-color: #41B6E6;
+    height: 60px;
+    margin: auto;
+    width: 98vw;
+    margin-top: 60vh;
+    position: absolute;
+}
+
+.about2 {
+    background-color: rgb(198, 198, 198);
+    height: 20px;
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 87vw;
+    text-align: center;
+}
+
+
+.contact2 {
+    background-color: rgb(198, 198, 198);
+    height: 20px;
+    width: 80px;
+    margin-left: 93vw;
+    margin-top: -20px;
+    text-align: center;
+}
