@@ -1,0 +1,163 @@
+body {
+background-color: black;
+color: white;
+font-family: 'Play', sans-serif;
+}
+
+a:hover { 
+    background-color: #41B6E6;
+  }
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+}
+
+.header {
+    background-color: #41B6E6;
+    height: 60px;
+    margin-top: 20px;
+    width: 98vw;
+
+}
+
+.portfolio {
+    background-color: #ffe043;
+    height: 20px;
+    width: 60px;
+    margin-top: -40px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.resume {
+    background-color: #ffe043;
+    height: 20px;
+    width: 60px;
+    margin-left: 80px;
+    margin-top: -20px;
+    text-align: center;
+}
+
+.about {
+    background-color: #ffe043;
+    height: 20px;
+    width: 60px;
+    margin-left: 150px;
+    margin-top: -20px;
+    text-align: center;
+}
+
+.contact {
+    background-color: #ffe043;
+    height: 20px;
+    width: 60px;
+    margin-left: 220px;
+    margin-top: -20px;
+    text-align: center;
+}
+
+.github {
+    height: 20px;
+    width: 60px;
+    margin-left: 90vw;
+    margin-top: -20px;
+}
+
+.linkdin {
+    height: 20px;
+    width: 60px;
+    margin-left: 93.5vw;
+    margin-top: -20px;
+}
+
+
+.tabs {
+    background-color: black;
+}
+
+.box1 {
+    border: #DB3EB1 solid;
+    height: 400px;
+    width: 450px;
+    margin-top: 40px;
+    margin-left: 300px;
+    font-size: 2em;
+    text-align: center;
+
+}
+
+
+.box2 {
+    border: #DB3EB1 solid;
+    height: 400px;
+    width: 450px;
+    margin-top: 200px;
+    margin-left: 300px;
+    font-size: 2em;
+    text-align: center;
+
+
+
+}
+
+.box3 {
+    border: #DB3EB1 solid;
+    height: 400px;
+    width: 450px;
+    margin-top: -1000px;
+    margin-left: 1000px;
+    font-size: 2em;
+    text-align: center;
+
+
+
+}
+
+.box4 {
+    border: #DB3EB1 solid;
+    height: 400px;
+    width: 450px;
+    margin-top:200px;
+    margin-left: 1000px;
+    font-size: 2em;
+    text-align: center;
+
+
+}
+
+
+
+
+
+
+
+.footer {
+    background-color: #41B6E6;
+    height: 60px;
+    margin: auto;
+    width: 98vw;
+    margin-top: 210vh;
+    position: absolute;
+}
+
+.about2 {
+    background-color: rgb(198, 198, 198);
+    height: 20px;
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 87vw;
+    text-align: center;
+}
+
+
+.contact2 {
+    background-color: rgb(198, 198, 198);
+    height: 20px;
+    width: 80px;
+    margin-left: 93vw;
+    margin-top: -20px;
+    text-align: center;
+}

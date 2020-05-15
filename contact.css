@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: #ffe043;
+}
+
+.h1 {
+    margin-left: 15px;
+}
+
+.home {
+font-size: 2em;
+text-align: right;
+margin-right: 100px;
+margin-top: -20px;
+}
+
+.line {
+    background-color: #41B6E6;
+    height: 5px;
+    width: 98vw;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.line2 {
+    background-color: #ffe043;
+    height: 5px;
+    width: 98vw;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.line3 {
+    background-color: #41B6E6;
+    height: 5px;
+    width: 98vw;
+    margin-top: 15px;
+    margin-left: 45px;
+}
+
+p {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 4em;
+}
